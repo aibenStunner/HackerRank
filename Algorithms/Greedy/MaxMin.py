@@ -8,16 +8,12 @@ import sys
 
 # Complete the maxMin function below.
 def maxMin(k, arr):
-    arr.sort()
+    s_arr=sorted(arr)
+    n = len(arr)
 
-    m = arr[k-1]-arr[0]
-    for i in range(1,len(arr)-k+1):
-        if arr[i+k-1]-arr[i]<m:
-            m=arr[i+k-1]-arr[i]
-    
-    return m
+    l = [abs(s_arr[i+k-1]-s_arr[i]) for i in range(n-k+1)]
 
-
+    return min(l)
 
 
 if __name__ == '__main__':
@@ -38,3 +34,4 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
+
