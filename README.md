@@ -48,6 +48,14 @@
 		<td>10</td>
 		<td>Warmup</td>
 	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">Compare the Triplets</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/CompareTheTriplets.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warmup</td>
+	</tr>
 	
 	
 </table>
