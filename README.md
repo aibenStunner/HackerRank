@@ -20,3 +20,20 @@
 	<img src="https://img.shields.io/github/languages/top/aibenStunner/HackerRank">
 </p>
 <p align="center">
+
+
+
+
+
+
+
+
+
+<h2>Contributing</h2>
+<p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
+<ul>
+	<li>Email - ebenezergadri99@gmail.com</li>
+	<li>Let's connect on <a href="https://www.linkedin.com/in/ebenezer-kweku-gadri-akrong-22b19a185/">linkedin</a></li>
+	<li>I'm on <a href="https://www.hackerrank.com/aiben_">hackerrank</a> as well</li> 
+</ul>
+</p>
