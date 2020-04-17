@@ -543,6 +543,54 @@
 </p>
 
 
+<p align="center">
+	
+# Mathematics
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Max Score</th>
+		<th>Sub domain</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-point/problem">Find the Point</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Mathematics/FindThePoint.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Fundamentals</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/maximum-draws/problem">Maximum Draws</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Mathematics/MaximumDraws.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Fundamentals</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href=https://www.hackerrank.com/challenges/handshake/problem">Handshake</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Mathematics/Handshake.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Fundamentals</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://www.hackerrank.com/challenges/lowest-triangle/problem">Minimum Height Triangle</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Mathematics/MinimumHeightTriangle.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Fundamentals</td>
+	</tr>
+	
+</table>
+</p>
+
 
 <h2>Contributing</h2>
 <p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
