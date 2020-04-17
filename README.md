@@ -405,13 +405,139 @@
 	<tr>
 		<td>1</td>
 		<td><a href="https://www.hackerrank.com/challenges/s10-basic-statistics/problem">Day 0: Mean, Median, and Mode</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/Mean%2CMedian%2CMode.pyy">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/Mean%2CMedian%2CMode.py">Solution</a></td>
 		<td>Easy</td>
 		<td>30</td>
 		<td>10 Days of Statistics</td>
 	</tr>
-	
-
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-weighted-mean/problem">Day 0: Weighted Mean</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/WeightedMean.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-quartiles/problem">Day 1: Quartiles</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/Quartile.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-interquartile-range/problem">Day 1: Interquartile Range</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/InterquartileRange.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-standard-deviation/problem">Day 1: Standard Deviation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/StandardDeviation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem">Day 4: Binomial Distribution I</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/BinomialDistribution1.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem">Day 4: Binomial Distribution II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/BinomialDistribution2.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem">Day 4: Geometric Distribution I</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/GeometricDistribution1.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem">Day 4: Geometric Distribution II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/GeometricDistribution2.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem">Day 5: Poisson Distribution I</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/PoissonDistribution1.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem">Day 5: Poisson Distribution II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/PoissonDistribution2.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem">Day 5: Normal Distribution I</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/NormalDistribution1.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem">Day 5: Normal Distribution II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/NormalDistribution2.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem">Day 6: The Central Limit Theorem I</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/CentralLimitTheorem1.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem">Day 6: The Central Limit Theorem II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/CentralLimitTheorem2.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem">Day 6: The Central Limit Theorem III</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/CentralLimitTheorem3.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem">Day 7: Pearson Correlation Coefficient I</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/PearsonRelationCoefficient1.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
 
 </table>
 </p>
