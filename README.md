@@ -35,7 +35,7 @@
 	<tr>
 		<td>1</td>
 		<td><a href="https://www.hackerrank.com/challenges/solve-me-first/problem">Solve Me First</a></td>
-		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/solve%20me%20first.py">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/SolveMeFirst.py">Solution</a></td>
 		<td>Easy</td>
 		<td>1</td>
 		<td>Warmup</td>
