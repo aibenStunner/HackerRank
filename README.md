@@ -56,6 +56,46 @@
 		<td>10</td>
 		<td>Warmup</td>
 	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="hackerrank.com/challenges/a-very-big-sum/problem">A Very Big Sym</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/AVeryBigSum.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warmup</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">Diagonal Difference</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/DiagonalDifference.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warmup</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/plus-minus/problem">Plus Minus</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/PlusMinus.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warmup</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td><a href="https://www.hackerrank.com/challenges/staircase/problem">Staircase</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/Staircase.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warmup</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td><a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">Min-Max Sum</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/MinMaxSum.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warmup</td>
+	</tr>
 	
 	
 </table>
