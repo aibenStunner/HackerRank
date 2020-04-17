@@ -90,7 +90,7 @@
 	</tr>
 	<tr>
 		<td>8</td>
-		<td><a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">Min-Max Sum</a></td>
+		<td><a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">Mini-Max Sum</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/MinMaxSum.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
