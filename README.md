@@ -390,9 +390,31 @@
 </p>
 
 
+<p align="center">
+	
+# Tutorials
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Max Score</th>
+		<th>Sub domain</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-basic-statistics/problem">Day 0: Mean, Median, and Mode</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/Mean%2CMedian%2CMode.pyy">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	
 
 
-
+</table>
+</p>
 
 
 
