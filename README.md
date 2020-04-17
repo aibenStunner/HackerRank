@@ -41,11 +41,11 @@
 		<td>Warmup</td>
 	</tr>
 	<tr>
-		<td>1</td>
+		<td>2</td>
 		<td><a href="https://www.hackerrank.com/challenges/simple-array-sum/problem">Simple Array Sum</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/SimpleArraySum.py">Solution</a></td>
 		<td>Easy</td>
-		<td>1</td>
+		<td>10</td>
 		<td>Warmup</td>
 	</tr>
 	
