@@ -236,6 +236,21 @@
 </table>
 </p>
 
+<p align="center">
+	
+# Data Structures
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Max Score</th>
+		<th>Sub domain</th>
+	</tr>
+
+</p>
+
 
 
 
