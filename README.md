@@ -29,9 +29,20 @@
 		<th>Problem</th>
 		<th>Solution</th>
 		<th>Difficulty</th>
-		<th>Points</th>
+		<th>Max Score</th>
 		<th>Sub domain</th>
 	</tr>
+	
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/solve-me-first/problem">Solve Me First</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/solve%20me%20first.py">Solution</a></td>
+		<td>Easy</td>
+		<td>1</td>
+		<td>Warmup</td>
+	</tr>
+	
+	
 </table>
 </p>
 
