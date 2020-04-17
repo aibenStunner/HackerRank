@@ -58,7 +58,7 @@
 	</tr>
 	<tr>
 		<td>4</td>
-		<td><a href="hackerrank.com/challenges/a-very-big-sum/problem">A Very Big Sym</a></td>
+		<td><a href="hackerrank.com/challenges/a-very-big-sum/problem">A Very Big Sum</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/AVeryBigSum.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
