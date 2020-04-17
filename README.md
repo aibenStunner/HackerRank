@@ -248,7 +248,145 @@
 		<th>Max Score</th>
 		<th>Sub domain</th>
 	</tr>
-
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/arrays-ds/problem">Array - DS</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/Array-DS.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Arrays</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array - DS</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/2DArray-DS.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Arrays</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/dynamic-array/problem">Dynamic Array</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/DyanamicArray.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Arrays</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Left Rotation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/LeftRotation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Arrays</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/sparse-arrays/problem">Sparse Arrays</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/SparseArrays.py">Solution</a></td>
+		<td>Medium</td>
+		<td>25</td>
+		<td>Arrays</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/crush/problem">Array Manipulation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/ArrayManipulation.py">Solution</a></td>
+		<td>Hard</td>
+		<td>60</td>
+		<td>Arrays</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td><a href="https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem">Delete duplicate-value nodes from a sorted linked list</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/DeleteDuplicate-valueNodesFromASortedLinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td><a href="https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem">Cycle Detection</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/CycleDetection.py">Solution</a></td>
+		<td>Medium</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem">Find Merge Point of Two Lists</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/FindMergePointOfTwoLists.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td><a href="https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem">Inserting a Node Into a Sorted Doubly Linked List</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/InsertingANodeIntoASortedDoublyLinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td><a href="https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem">Reverse a doubly linked list</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/ReverseADoublyLinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td><a href="https://www.hackerrank.com/challenges/qheap1/problem">QHEAP1</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Heap/QHEAP1.py">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Heap</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td><a href="https://www.hackerrank.com/challenges/jesse-and-cookies/problem">Jesse and Cookies</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Heap/JesseAndCookies.py">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Heap</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-the-running-median/problem">Find the Running Median</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Heap/FindTheRunningMedian.py">Solution</a></td>
+		<td>Hard</td>
+		<td>50</td>
+		<td>Heap</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td><a href="https://www.hackerrank.com/challenges/equal-stacks/problem">Equal Stacks</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/EqualStacks.py">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Stacks</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem">Minimum Average Waiting Time</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Heap/MinimumAverageWaitingTime.py">Solution</a></td>
+		<td>Hard</td>
+		<td>80</td>
+		<td>Heap</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td><a href="https://www.hackerrank.com/challenges/game-of-two-stacks/problem">Game of Two Stacks</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/GameOfTwoStacks.py">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Stacks</td>
+	</tr>
+	
+	
+</table>
 </p>
 
 
