@@ -19,8 +19,21 @@
 	<img src="https://img.shields.io/github/languages/count/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/languages/top/aibenStunner/HackerRank">
 </p>
-<p align="center">
 
+<p align="center">
+	
+# Algorithms
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Points</th>
+		<th>Sub domain</th>
+	</tr>
+</table>
+</p>
 
 
 
