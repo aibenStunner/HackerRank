@@ -1,2 +1,4 @@
-# HackerRank
-💻 🔌 Solutions and Explanations to practice problems (Algorithms, Data Structures, Mathematic, Statistics) on HackerRank, implemented with Python.
+[CopyrightLicense]:./license.md
+<p align="center">
+	<a href="https://www.hackerrank.com/aiben_"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a>
+</p>
