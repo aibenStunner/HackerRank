@@ -96,7 +96,142 @@
 		<td>10</td>
 		<td>Warmup</td>
 	</tr>
-	
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">Birthday Cake Candles</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/BirthdayCakeCandles.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warmup</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td><a href="https://www.hackerrank.com/challenges/time-conversion/problem">Time Conversion</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/warmup/TimeConversion.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Warmup</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td><a href="https://www.hackerrank.com/challenges/grading/problem">Grading Students</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/GradingStudents.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td><a href="https://www.hackerrank.com/challenges/apple-and-orange/problem">Apple and Orange</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/AppleAndOrange.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td><a href="https://www.hackerrank.com/challenges/kangaroo/problem">Kangaroo</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/Kangaroo.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td><a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem">Breaking the Records</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/BreakingTheRecords.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td><a href="https://www.hackerrank.com/challenges/magic-square-forming/problem">Forming a Magic Square</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/FormingAMagicSquare.py">Solution</a></td>
+		<td>Medium</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-digits/problem">Find Digits</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/FindDigits.py">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td><a href="https://www.hackerrank.com/challenges/extra-long-factorials/problem">Extra Long Factorials</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/ExtraLongFactorials.py">Solution</a></td>
+		<td>Medium</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/append-and-delete/problem">Append and Delete</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/AppendAndDelete.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-squares/problem">Sherlock and Squares</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/SherlockAndSquares.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td><a href="https://www.hackerrank.com/challenges/matrix-rotation-algo/problem">Matrix Layer Rotation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/MatrixLayerRotation.py">Solution</a></td>
+		<td>Hard</td>
+		<td>80</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td><a href="https://www.hackerrank.com/challenges/reduced-string/problem">Super Reduced String</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/SuperReducedString.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem">Sherlock and The Beast</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/SherlockAndTheBeast.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td><a href="https://www.hackerrank.com/challenges/angry-children/problem">Max Min</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MaxMin.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td><a href="https://www.hackerrank.com/challenges/pylons/problem">Goodland Electricity</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/GoodlandElectricity.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td><a href="https://www.hackerrank.com/challenges/lonely-integer/problem">Lonely Integer</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Bit%20Manipulation/LonelyInteger.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Bit Manipulation</td>
+	</tr>
 	
 </table>
 </p>
