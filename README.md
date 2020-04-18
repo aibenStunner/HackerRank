@@ -384,6 +384,15 @@
 		<td>30</td>
 		<td>Stacks</td>
 	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/balanced-brackets/problem">Balanced Brackets</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/BalancedBrackets.py">Solution</a></td>
+		<td>Medium</td>
+		<td>25</td>
+		<td>Stacks</td>
+	</tr>
+	
 	
 	
 </table>
