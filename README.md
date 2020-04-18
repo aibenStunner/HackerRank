@@ -392,6 +392,15 @@
 		<td>25</td>
 		<td>Stacks</td>
 	</tr>
+	<tr>
+		<td>19</td>
+		<td><a href="https://www.hackerrank.com/challenges/largest-rectangle/problem">Largest Rectangle</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/LargestRectangle.py">Solution</a></td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Stacks</td>
+	</tr>
+	
 	
 	
 	
