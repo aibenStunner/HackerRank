@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/commit-activity/m/aibenStunner/HackerRank">
-	<img src="https://img.shields.io/badge/Problems%20Solved-65-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-66-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -400,6 +400,16 @@
 		<td>50</td>
 		<td>Stacks</td>
 	</tr>
+	<tr>
+		<td>20</td>
+		<td><a href="https://www.hackerrank.com/challenges/simple-text-editor/problem">Simple Text Editor</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/SimpleTextEditor.py">Solution</a></td>
+		<td>Medium</td>
+		<td>65</td>
+		<td>Stacks</td>
+	</tr>
+	
+	
 	
 	
 	
