@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/commit-activity/m/aibenStunner/HackerRank">
-	<img src="https://img.shields.io/badge/Problems%20Solved-66-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-67-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -566,6 +566,15 @@
 		<td>30</td>
 		<td>10 Days of Statistics</td>
 	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-hello-world/problem">Day 0: Hello, World!</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/Hello%2CWorld!.js">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	
 
 </table>
 </p>
