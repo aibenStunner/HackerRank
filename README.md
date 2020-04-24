@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/commit-activity/m/aibenStunner/HackerRank">
-	<img src="https://img.shields.io/badge/Problems%20Solved-71-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -603,6 +603,22 @@
 	</tr>
 	<tr>
 		<td>30</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-function/problem">Day 1: Functions</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/Functions.js">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-let-and-const/problem">Day 1: Let and Const</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/LetAndConst.js">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>32</td>
 		<td><a href="https://www.hackerrank.com/challenges/js10-loops/problem">Day 2: Loops</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/Loops.js">Solution</a></td>
 		<td>Easy</td>
