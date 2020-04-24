@@ -408,14 +408,25 @@
 		<td>65</td>
 		<td>Stacks</td>
 	</tr>
-	
-	
-	
-	
+	<tr>
+		<td>21</td>
+		<td><a href="hhttps://www.hackerrank.com/challenges/poisonous-plants/problem">Poisonous Plants</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/PoisonousPlants.py">Solution</a></td>
+		<td>Hard</td>
+		<td>70</td>
+		<td>Stacks</td>
+	</tr>	
 	
 	
 </table>
 </p>
+
+
+
+
+
+
+
 
 
 <p align="center">
