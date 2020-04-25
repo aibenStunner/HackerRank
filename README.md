@@ -625,6 +625,23 @@
 		<td>10</td>
 		<td>10 Days of Javascript</td>
 	</tr>
+	<tr>
+		<td>33</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-if-else/problem">Day 2: Conditional Statements: If-Else</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/ConditionalStatementsIfElse.js">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-switch/problem">Day 2: Conditional Statements: Switch</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/ConditionalStatementsSwitch.js">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	
 	
 	
 	
