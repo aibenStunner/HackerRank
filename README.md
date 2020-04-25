@@ -641,6 +641,14 @@
 		<td>10</td>
 		<td>10 Days of Javascript</td>
 	</tr>
+	<tr>
+		<td>35</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-arrays/problem">Day 3: Arrays</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/Arrays.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
 	
 	
 	
