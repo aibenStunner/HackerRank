@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/commit-activity/m/aibenStunner/HackerRank">
-	<img src="https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
