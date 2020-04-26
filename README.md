@@ -649,6 +649,110 @@
 		<td>15</td>
 		<td>10 Days of Javascript</td>
 	</tr>
+	<tr>
+		<td>36</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem">Day 3: Try, Catch, and Finally</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/TryCatchAndFinally.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-throw/problem">Day 3: Throw</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/Throw.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-objects/problem">Day 4: Create a Rectangle Object</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/CreateARectangleObject.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-count-objects/problem">Day 4: Count Objects</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/CountObjects.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-class/problem">Day 4: Classes</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/Classes.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-inheritance/problem">Day 5: Inheritance</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/Inheritance.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-template-literals/problem">Day 5: Template Literals</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/TemplateLiterals.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-arrows/problem">Day 5: Arrow Functions</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/ArrowFunctions.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-bitwise/problem">Day 6: Bitwise Operators</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/BitwiseOperators.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-date/problem">Day 6: JavaScript Dates</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/JavascriptDates.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-regexp-1/problem">Day 7: Regular Expressions I</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/RegularExpressionI.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-regexp-2/problem">Day 7: Regular Expressions II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/RegularExpressionsII.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td><a href="https://www.hackerrank.com/challenges/js10-regexp-3/problem">Day 7: Regular Expressions III</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Javascript/RegularExpressionsIII.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>10 Days of Javascript</td>
+	</tr>
 	
 	
 	
