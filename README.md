@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/commit-activity/m/aibenStunner/HackerRank">
-	<img src="https://img.shields.io/badge/Problems%20Solved-98-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-99-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -412,6 +412,14 @@
 		<td>21</td>
 		<td><a href="https://www.hackerrank.com/challenges/poisonous-plants/problem">Poisonous Plants</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/PoisonousPlants.py">Solution</a></td>
+		<td>Hard</td>
+		<td>70</td>
+		<td>Stacks</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td><a href="https://www.hackerrank.com/challenges/and-xor-or/problem">AND xor OR</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/ANDxorOR.py">Solution</a></td>
 		<td>Hard</td>
 		<td>70</td>
 		<td>Stacks</td>
