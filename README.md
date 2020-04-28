@@ -12,7 +12,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/commit-activity/m/aibenStunner/HackerRank">
-	<img src="https://img.shields.io/badge/Problems%20Solved-99-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-100-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -232,6 +232,20 @@
 		<td>20</td>
 		<td>Bit Manipulation</td>
 	</tr>
+	<tr>
+		<td>26</td>
+		<td><a href="https://www.hackerrank.com/challenges/coin-change/problem">The Coin Change Problem</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Dynamic%20Programming/TheCoinChangeProblem.py">Solution</a></td>
+		<td>Medium</td>
+		<td>60</td>
+		<td>Dynamic Programming</td>
+	</tr>
+	
+	
+	
+	
+	
+	
 	
 </table>
 </p>
