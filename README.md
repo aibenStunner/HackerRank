@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-101-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-102-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -246,6 +246,14 @@
 		<td>Medium</td>
 		<td>30</td>
 		<td>Dynamic Programming</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td><a href="https://www.hackerrank.com/challenges/greedy-florist/problem">Greedy Florist</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/GreedyFlorist.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Greedy</td>
 	</tr>
 	
 	
