@@ -1,6 +1,6 @@
-def get_rank(X, n):
-    x_rank = dict((x, i+1) for i, x in enumerate(sorted(set(X))))
-    return [x_rank[x] for x in X]
+def get_rank(lst, n):
+    rank = dict((x, i+1) for i, x in enumerate(sorted(set(lst))))
+    return [rank[x] for x in lst]
     
 n = int(input())
 X = list(map(float, input().split()))
