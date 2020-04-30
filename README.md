@@ -790,6 +790,30 @@
 		<td>15</td>
 		<td>10 Days of Javascript</td>
 	</tr>
+	<tr>
+		<td>49</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem">Day 7: Spearman's Rank Correlation Coefficient</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/Spearman'sRankCorrelationCoefficient.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem">Day 8: Least Square Regression Line</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/LeastSquareRegressionLine.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td><a href="https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem">Day 9: Multiple Linear Regression</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Tutorials/10%20Days%20of%20Statistics/MultipleLinearRegression.py">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>10 Days of Statistics</td>
+	</tr>
 	
 	
 	
