@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-107-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-108-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -468,7 +468,15 @@
 		<td>Easy</td>
 		<td>20</td>
 		<td>Stacks</td>
-	</tr>	
+	</tr>
+	<tr>
+		<td>25</td>
+		<td><a href="https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem">Insert a node at the head of a linked list</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/InsertANodeAtTheHeadOfALinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
 	
 </table>
 </p>
