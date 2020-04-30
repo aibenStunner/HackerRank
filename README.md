@@ -453,6 +453,14 @@
 		<td>70</td>
 		<td>Stacks</td>
 	</tr>	
+	<tr>
+		<td>23</td>
+		<td><a href="https://www.hackerrank.com/challenges/waiter/problem">Waiter</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/Waiter.py">Solution</a></td>
+		<td>Medium</td>
+		<td>75</td>
+		<td>Stacks</td>
+	</tr>	
 	
 	
 </table>
