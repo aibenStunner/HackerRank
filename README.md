@@ -461,7 +461,14 @@
 		<td>75</td>
 		<td>Stacks</td>
 	</tr>	
-	
+	<tr>
+		<td>24</td>
+		<td><a href="https://www.hackerrank.com/challenges/maximum-element/problem">Maximum Element</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Stacks/MaximumElement.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Stacks</td>
+	</tr>	
 	
 </table>
 </p>
