@@ -477,6 +477,14 @@
 		<td>5</td>
 		<td>Linked Lists</td>
 	</tr>
+	<tr>
+		<td>26</td>
+		<td><a href="https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem">Insert a node at a specific position in a linked list</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/InsertANodeAtASpecificPositionInALinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
 	
 </table>
 </p>
