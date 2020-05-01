@@ -493,6 +493,30 @@
 		<td>5</td>
 		<td>Linked Lists</td>
 	</tr>
+	<tr>
+		<td>28</td>
+		<td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem">Print in Reverse</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/PrintInReverse.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td><a href="https://www.hackerrank.com/challenges/reverse-a-linked-list/problem">Reverse a linked list</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/ReverseALinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td><a href="https://www.hackerrank.com/challenges/compare-two-linked-lists/problem">Compare two linked lists</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/CompareTwoLinkedLists.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
 	
 </table>
 </p>
