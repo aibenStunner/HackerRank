@@ -485,6 +485,14 @@
 		<td>5</td>
 		<td>Linked Lists</td>
 	</tr>
+	<tr>
+		<td>27</td>
+		<td><a href="https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem">Delete a Node</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/DeleteANode.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
 	
 </table>
 </p>
