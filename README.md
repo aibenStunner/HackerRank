@@ -525,6 +525,14 @@
 		<td>5</td>
 		<td>Linked Lists</td>
 	</tr>
+	<tr>
+		<td>32</td>
+		<td><a href="https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem">Merge two sorted linked lists</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/GetNodeValue.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
 	
 </table>
 </p>
