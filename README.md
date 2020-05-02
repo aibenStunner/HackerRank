@@ -517,6 +517,14 @@
 		<td>5</td>
 		<td>Linked Lists</td>
 	</tr>
+	<tr>
+		<td>31</td>
+		<td><a href="https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem">Merge two sorted linked lists</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/MergeTwoSortedLinkedLists.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
 	
 </table>
 </p>
