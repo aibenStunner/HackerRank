@@ -255,6 +255,14 @@
 		<td>35</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>29</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-cost/problem">Sherlock and Cost</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Dynamic%20Programming/SherlockAndCost.py">Solution</a></td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Dynamic Programming</td>
+	</tr>
 	
 	
 	
