@@ -265,7 +265,7 @@
 	</tr>
 	<tr>
 		<td>30</td>
-		<td><a href="https://www.hackerrank.com/challenges/jim-and-the-orders/problem">Permuting Two Arrays</a></td>
+		<td><a href="https://www.hackerrank.com/challenges/jim-and-the-orders/problem">Jim and the Orders</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/JimAndTheOrders.py">Solution</a></td>
 		<td>Easy</td>
 		<td>40</td>
@@ -273,7 +273,7 @@
 	</tr>
 	<tr>
 		<td>31</td>
-		<td><a href="https://www.hackerrank.com/challenges/two-arrays/problem">Jim and the Orders</a></td>
+		<td><a href="https://www.hackerrank.com/challenges/two-arrays/problem">Permuting Two Arrays</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/PermutingTwoArrays.py">Solution</a></td>
 		<td>Easy</td>
 		<td>40</td>
