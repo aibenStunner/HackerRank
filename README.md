@@ -279,6 +279,14 @@
 		<td>40</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>32</td>
+		<td><a href="https://www.hackerrank.com/challenges/construct-the-array/problem">Construct the Array</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Dynamic%20Programming/ConstructTheArray.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Dynamic Programming</td>
+	</tr>
 	
 	
 	
