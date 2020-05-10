@@ -287,6 +287,14 @@
 		<td>35</td>
 		<td>Dynamic Programming</td>
 	</tr>
+	<tr>
+		<td>33</td>
+		<td><a href="https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem">Minimum Absolute Difference in an Array</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MinimumAbsoluteDifferenceInAnArray.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 	
