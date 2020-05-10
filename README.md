@@ -295,6 +295,22 @@
 		<td>15</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>34</td>
+		<td><a href="https://www.hackerrank.com/challenges/marcs-cakewalk/problem">Marc's Cakewalk</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/Marc'sCakewalk.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td><a href="https://www.hackerrank.com/challenges/grid-challenge/problem">Grid Challenge</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/GridChallenge.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 	
