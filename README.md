@@ -589,7 +589,22 @@
 		<td>5</td>
 		<td>Linked Lists</td>
 	</tr>
-	
+	<tr>
+		<td>33</td>
+		<td><a href="https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem">Insert a Node at the Tail of a Linked List</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/InsertANodeAtTheTailOfaLinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td><a href="https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem">Print the Elements of a Linked List</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Linked%20Lists/PrintTheElementsOfaLinkedList.py">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Linked Lists</td>
+	</tr>
 </table>
 </p>
 
