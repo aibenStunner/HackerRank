@@ -311,6 +311,30 @@
 		<td>20</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>36</td>
+		<td><a href="https://www.hackerrank.com/challenges/luck-balance/problem">Luck Balance</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/LuckBalance.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td><a href="https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem">Maximum Perimeter Triangle</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MaximumPerimeterTriangle.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td><a href="https://www.hackerrank.com/challenges/candies/problem">Candies</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/Candies.py">Solution</a></td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 	
