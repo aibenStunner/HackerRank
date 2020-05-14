@@ -636,6 +636,15 @@
 		<td>5</td>
 		<td>Linked Lists</td>
 	</tr>
+	<tr>
+		<td>35</td>
+		<td><a href="https://www.hackerrank.com/challenges/tree-preorder-traversal/problem">Tree: Preorder Traversal</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Trees/PreorderTraversal.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Trees</td>
+	</tr>
+
 </table>
 </p>
 
