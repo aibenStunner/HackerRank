@@ -335,7 +335,14 @@
 		<td>50</td>
 		<td>Greedy</td>
 	</tr>
-	
+	<tr>
+		<td>39</td>
+		<td><a href="https://www.hackerrank.com/challenges/beautiful-pairs/problem">Beautiful Pairs</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/BeautifulPairs.py">Solution</a></td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 	
