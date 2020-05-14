@@ -644,6 +644,14 @@
 		<td>10</td>
 		<td>Trees</td>
 	</tr>
+	<tr>
+		<td>36</td>
+		<td><a href="https://www.hackerrank.com/challenges/tree-postorder-traversal/problem">Tree: Postorder Traversal</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Trees/PostorderTraversal.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Trees</td>
+	</tr>
 
 </table>
 </p>
