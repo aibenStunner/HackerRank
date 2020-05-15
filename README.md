@@ -359,7 +359,14 @@
 		<td>30</td>
 		<td>Greedy</td>
 	</tr>
-	
+	<tr>
+		<td>42</td>
+		<td><a href="https://www.hackerrank.com/challenges/fibonacci-modified/problem">Fibonacci Modified</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Dynamic%20Programming/FibonacciModified.py">Solution</a></td>
+		<td>Medium</td>
+		<td>45</td>
+		<td>Dynamic Programming</td>
+	</tr>
 	
 	
 	
