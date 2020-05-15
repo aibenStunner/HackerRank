@@ -687,7 +687,15 @@
 		<td><a href="https://www.hackerrank.com/challenges/tree-top-view/problem">Tree : Top View</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Trees/TopView.py">Solution</a></td>
 		<td>Easy</td>
-		<td>10</td>
+		<td>20</td>
+		<td>Trees</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td><a href="https://www.hackerrank.com/challenges/tree-level-order-traversal/problem">Tree: Level Order Traversal</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Trees/LevelOrderTraversal.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
 		<td>Trees</td>
 	</tr>
 
