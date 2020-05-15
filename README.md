@@ -698,6 +698,14 @@
 		<td>20</td>
 		<td>Trees</td>
 	</tr>
+	<tr>
+		<td>41</td>
+		<td><a href="https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem">Binary Search Tree : Insertion</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Trees/Insertion.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Trees</td>
+	</tr>
 
 </table>
 </p>
