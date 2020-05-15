@@ -343,7 +343,14 @@
 		<td>30</td>
 		<td>Greedy</td>
 	</tr>
-	
+	<tr>
+		<td>40</td>
+		<td><a href="https://www.hackerrank.com/challenges/sam-and-substrings/problem">Sam and substrings</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Dynamic%20Programming/SamAndSubstrings.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Dynamic Programming</td>
+	</tr>
 	
 	
 	
