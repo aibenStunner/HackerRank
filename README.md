@@ -735,6 +735,14 @@
 		<td>20</td>
 		<td>Trees</td>
 	</tr>
+	<tr>
+		<td>43</td>
+		<td><a href="https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem">Binary Search Tree : Lowest Common Ancestor</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Trees/LowestCommonAncestor.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Trees</td>
+	</tr>
 
 </table>
 </p>
