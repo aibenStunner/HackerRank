@@ -367,7 +367,14 @@
 		<td>45</td>
 		<td>Dynamic Programming</td>
 	</tr>
-	
+	<tr>
+		<td>43</td>
+		<td><a href="https://www.hackerrank.com/challenges/largest-permutation/problem">Largest Permutation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/LargestPermutation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 </table>
