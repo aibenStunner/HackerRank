@@ -1252,6 +1252,14 @@
 		<td>15</td>
 		<td>Basic Select</td>
 	</tr>
+	<tr>
+		<td>8</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-3/problem">Weather Observation Station 3</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/WeatherObservationStation3.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Basic Select</td>
+	</tr>
 
 </table>
 </p>
