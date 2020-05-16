@@ -1199,7 +1199,7 @@
 	<tr>
 		<td>1</td>
 		<td><a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem">Revising the Select Query I</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/RevisingTheSelectQueryI.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/RevisingTheSelectQueryI.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
@@ -1207,7 +1207,7 @@
 	<tr>
 		<td>2</td>
 		<td><a href="https://www.hackerrank.com/challenges/revising-the-select-query-2/problem">Revising the Select Query II</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/RevisingTheSelectQueryII.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/RevisingTheSelectQueryII.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
@@ -1215,7 +1215,7 @@
 	<tr>
 		<td>3</td>
 		<td><a href="https://www.hackerrank.com/challenges/select-all-sql/problem">Select All</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/SelectAll.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/SelectAll.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
@@ -1223,7 +1223,7 @@
 	<tr>
 		<td>4</td>
 		<td><a href="https://www.hackerrank.com/challenges/select-by-id/problem">Select By ID</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/SelectByID.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/SelectByID.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
@@ -1231,7 +1231,7 @@
 	<tr>
 		<td>5</td>
 		<td><a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem">Japanese Cities' Attributes</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/JapaneseCitiesAttributes.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/JapaneseCitiesAttributes.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
@@ -1239,7 +1239,7 @@
 	<tr>
 		<td>6</td>
 		<td><a href="https://www.hackerrank.com/challenges/japanese-cities-name/problem">Japanese Cities' Names</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/JapaneseCitiesNames.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/JapaneseCitiesNames.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
@@ -1247,7 +1247,7 @@
 	<tr>
 		<td>7</td>
 		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-1/problem">Weather Observation Station 1</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/WeatherObservationStationI.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/WeatherObservationStationI.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>15</td>
 		<td>Basic Select</td>
@@ -1255,7 +1255,7 @@
 	<tr>
 		<td>8</td>
 		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-3/problem">Weather Observation Station 3</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%Select/WeatherObservationStation3.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/WeatherObservationStation3.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
