@@ -1204,7 +1204,14 @@
 		<td>10</td>
 		<td>Basic Select</td>
 	</tr>
-
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/revising-the-select-query-2/problem">Revising the Select Query II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/RevisingTheSelectQueryII.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
 
 
 
