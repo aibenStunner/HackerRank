@@ -727,6 +727,14 @@
 		<td>20</td>
 		<td>Trees</td>
 	</tr>
+	<tr>
+		<td>42</td>
+		<td><a href="https://www.hackerrank.com/challenges/tree-huffman-decoding/problem">Tree: Huffman Decoding</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Trees/HuffmanDecoding.py">Solution</a></td>
+		<td>Medium</td>
+		<td>20</td>
+		<td>Trees</td>
+	</tr>
 
 </table>
 </p>
