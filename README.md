@@ -1212,7 +1212,14 @@
 		<td>10</td>
 		<td>Basic Select</td>
 	</tr>
-
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/select-all-sql/problem">Select All</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/SelectAll.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
 
 
 </table>
