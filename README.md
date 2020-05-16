@@ -375,7 +375,14 @@
 		<td>30</td>
 		<td>Greedy</td>
 	</tr>
-	
+	<tr>
+		<td>44</td>
+		<td><a href="https://www.hackerrank.com/challenges/mark-and-toys/problem">Mark and Toys</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MarkAndToys.py">Solution</a></td>
+		<td>Easy</td>
+		<td>35</td>
+		<td>Greedy</td>
+	</tr>
 	
 </table>
 </p>
