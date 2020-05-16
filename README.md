@@ -1236,6 +1236,14 @@
 		<td>10</td>
 		<td>Basic Select</td>
 	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/japanese-cities-name/problem">Japanese Cities' Names</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/JapaneseCitiesNames.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
 
 </table>
 </p>
