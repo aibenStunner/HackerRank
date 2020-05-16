@@ -1222,8 +1222,16 @@
 	</tr>
 	<tr>
 		<td>4</td>
-		<td><a href="hhttps://www.hackerrank.com/challenges/select-by-id/problem">Select By ID</a></td>
+		<td><a href="https://www.hackerrank.com/challenges/select-by-id/problem">Select By ID</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/SelectByID.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/japanese-cities-attributes/problem">Japanese Cities' Attributes</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/JapaneseCitiesAttributes.sql">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Basic Select</td>
