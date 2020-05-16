@@ -383,6 +383,14 @@
 		<td>35</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>45</td>
+		<td><a href="https://www.hackerrank.com/challenges/abbr/problem">Abbreviation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Dynamic%20Programming/Abbreviation.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Dynamic Programming</td>
+	</tr>
 	
 </table>
 </p>
