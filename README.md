@@ -391,6 +391,14 @@
 		<td>40</td>
 		<td>Dynamic Programming</td>
 	</tr>
+	<tr>
+		<td>46</td>
+		<td><a href="https://www.hackerrank.com/challenges/chief-hopper/problem">Chief Hopper</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/ChiefHopper.py">Solution</a></td>
+		<td>Hard</td>
+		<td>65</td>
+		<td>Greedy</td>
+	</tr>
 	
 </table>
 </p>
