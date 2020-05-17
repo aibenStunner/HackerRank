@@ -1340,6 +1340,15 @@
 		<td>15</td>
 		<td>Basic Select</td>
 	</tr>
+	<tr>
+		<td>19</td>
+		<td><a href="https://www.hackerrank.com/challenges/name-of-employees/problem">Employee Names</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/EmployeeNames.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
+
 
 </table>
 </p>
