@@ -1332,6 +1332,14 @@
 		<td>15</td>
 		<td>Basic Select</td>
 	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/more-than-75-marks/problem">Higher Than 75 Marks</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/HigherThan75Marks.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Basic Select</td>
+	</tr>
 
 </table>
 </p>
