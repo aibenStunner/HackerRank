@@ -1260,7 +1260,14 @@
 		<td>10</td>
 		<td>Basic Select</td>
 	</tr>
-
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-4/problem">Weather Observation Station 4</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/WeatherObservationStation4.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
 </table>
 </p>
 
