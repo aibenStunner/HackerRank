@@ -1356,6 +1356,16 @@
 		<td>10</td>
 		<td>Basic Select</td>
 	</tr>
+	<tr>
+		<td>21</td>
+		<td><a href="https://www.hackerrank.com/challenges/what-type-of-triangle/problem">Type of Triangle</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/TypeOfTriangle.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Advanced Select</td>
+	</tr>
+
+	
 
 </table>
 </p>
