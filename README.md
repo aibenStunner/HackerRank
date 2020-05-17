@@ -1348,7 +1348,14 @@
 		<td>10</td>
 		<td>Basic Select</td>
 	</tr>
-
+	<tr>
+		<td>20</td>
+		<td><a href="https://www.hackerrank.com/challenges/salary-of-employees/problem">Employee Salaries</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/EmployeeSalaries.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
 
 </table>
 </p>
