@@ -1308,7 +1308,30 @@
 		<td>10</td>
 		<td>Basic Select</td>
 	</tr>
-
+	<tr>
+		<td>15</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-10/problem">Weather Observation Station 10</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/WeatherObservationStation10.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Select</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-11/problem">Weather Observation Station 11</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/WeatherObservationStation11.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Basic Select</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-12/problem">Weather Observation Station 12</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Select/WeatherObservationStation12.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Basic Select</td>
+	</tr>
 
 </table>
 </p>
