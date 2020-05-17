@@ -1364,8 +1364,17 @@
 		<td>20</td>
 		<td>Advanced Select</td>
 	</tr>
+	<tr>
+		<td>22</td>
+		<td><a href="https://www.hackerrank.com/challenges/the-pads/problem">The PADS
 
-	
+</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Advanced%20Select/ThePADS.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Advanced Select</td>
+	</tr>
+
 
 </table>
 </p>
