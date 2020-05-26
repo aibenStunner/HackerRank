@@ -1388,6 +1388,14 @@
 		<td>30</td>
 		<td>Advanced Select</td>
 	</tr>
+	<tr>
+		<td>25</td>
+		<td><a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem">Revising Aggregations - The Count Function</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/TheCountFunction.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Aggregation</td>
+	</tr>
 </table>
 </p>
 
