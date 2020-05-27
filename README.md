@@ -1428,6 +1428,14 @@
 		<td>10</td>
 		<td>Aggregation</td>
 	</tr>
+	<tr>
+		<td>30</td>
+		<td><a href="https://www.hackerrank.com/challenges/population-density-difference/problem">Population Density Difference</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/PopulationDensityDifference.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Aggregation</td>
+	</tr>
 </table>
 </p>
 
