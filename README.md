@@ -1444,6 +1444,14 @@
 		<td>15</td>
 		<td>Aggregation</td>
 	</tr>
+	<tr>
+		<td>32</td>
+		<td><a href="https://www.hackerrank.com/challenges/earnings-of-employees/problem">Top Earners</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/TopEarners.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Aggregation</td>
+	</tr>
 </table>
 </p>
 
