@@ -1436,6 +1436,14 @@
 		<td>10</td>
 		<td>Aggregation</td>
 	</tr>
+	<tr>
+		<td>31</td>
+		<td><a href="https://www.hackerrank.com/challenges/the-blunder/problem">The Blunder</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/TheBlunder.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Aggregation</td>
+	</tr>
 </table>
 </p>
 
