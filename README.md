@@ -1452,6 +1452,79 @@
 		<td>20</td>
 		<td>Aggregation</td>
 	</tr>
+	<tr>
+		<td>33</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-2/problem">Weather Observation Station 2</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation2.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-13/problem">Weather Observation Station 13</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation13.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-14/problem">Weather Observation Station 14</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation14.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-15/problem">Weather Observation Station 15</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation15.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-16/problem">Weather Observation Station 16</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation16.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-17/problem">Weather Observation Station 17</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation17.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem">Weather Observation Station 18</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation18.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>25</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-19/problem">Weather Observation Station 19</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation19.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Aggregation</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td><a href="https://www.hackerrank.com/challenges/weather-observation-station-20/problem">Weather Observation Station 20</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/WeatherObservationStation20.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Aggregation</td>
+	</tr>
+
 </table>
 </p>
 
