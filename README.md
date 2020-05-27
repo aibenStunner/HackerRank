@@ -1412,6 +1412,14 @@
 		<td>10</td>
 		<td>Aggregation</td>
 	</tr>
+	<tr>
+		<td>28</td>
+		<td><a href="https://www.hackerrank.com/challenges/average-population/problem">Average Population</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Aggregation/AveragePopulation.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Aggregation</td>
+	</tr>
 </table>
 </p>
 
