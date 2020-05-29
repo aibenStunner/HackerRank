@@ -1532,6 +1532,14 @@
 		<td>10</td>
 		<td>Basic Join</td>
 	</tr>
+	<tr>
+		<td>43</td>
+		<td><a href="https://www.hackerrank.com/challenges/african-cities/problem">African Cities</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/AfricanCities.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Join</td>
+	</tr>
 
 </table>
 </p>
