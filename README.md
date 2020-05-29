@@ -1540,6 +1540,14 @@
 		<td>10</td>
 		<td>Basic Join</td>
 	</tr>
+	<tr>
+		<td>44</td>
+		<td><a href="https://www.hackerrank.com/challenges/average-population-of-each-continent/problem">Average Population of Each Continent</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/AveragePopulationOfEachContinent.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic Join</td>
+	</tr>
 
 </table>
 </p>
