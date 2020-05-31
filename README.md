@@ -1550,10 +1550,18 @@
 	</tr>
 	<tr>
 		<td>45</td>
-		<td><a href="https://www.hackerrank.com/challenges/the-report/problem">the Report</a></td>
+		<td><a href="https://www.hackerrank.com/challenges/the-report/problem">The Report</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/TheReport.sql">Solution</a></td>
 		<td>Medium</td>
 		<td>20</td>
+		<td>Basic Join</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td><a href="https://www.hackerrank.com/challenges/full-score/problem">Top Competitors</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/TopCompetitors.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
 		<td>Basic Join</td>
 	</tr>
 
