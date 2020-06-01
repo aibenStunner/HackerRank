@@ -1628,6 +1628,14 @@
 		<td>60</td>
 		<td>Arrays</td>
 	</tr>
+	<tr>
+		<td>7</td>
+		<td><a href="https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem">Arrays: Left Rotation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Arrays/LeftRotation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Arrays</td>
+	</tr>
 
 
 </table>
