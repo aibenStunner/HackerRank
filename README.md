@@ -1588,6 +1588,14 @@
 		<td>10</td>
 		<td>Warm-up Challenges</td>
 	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/counting-valleys/problem">Counting Valleys</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/TopCompetitors.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Warm-up Challenges</td>
+	</tr>
 
 
 </table>
