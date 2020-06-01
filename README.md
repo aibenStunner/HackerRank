@@ -1583,7 +1583,7 @@
 	<tr>
 		<td>1</td>
 		<td><a href="https://www.hackerrank.com/challenges/sock-merchant/problem">Sock Merchant</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/TopCompetitors.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/SockMerchant.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm-up Challenges</td>
