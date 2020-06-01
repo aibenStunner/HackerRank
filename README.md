@@ -1612,6 +1612,22 @@
 		<td>20</td>
 		<td>Warm-up Challenges</td>
 	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/2d-array/problem">2D Array - DS</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/2DArray-DS.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Arrays</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/2d-array/problem">Array Manipulation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Data%20Structures/Arrays/ArrayManipulation.py">Solution</a></td>
+		<td>Hard</td>
+		<td>60</td>
+		<td>Arrays</td>
+	</tr>
 
 
 </table>
