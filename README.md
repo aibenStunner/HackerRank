@@ -1596,6 +1596,14 @@
 		<td>15</td>
 		<td>Warm-up Challenges</td>
 	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem">Jumping on the Clouds</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Warm-up%20Challenges/JumpingOnTheClouds.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Warm-up Challenges</td>
+	</tr>
 
 
 </table>
