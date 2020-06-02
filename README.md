@@ -1644,6 +1644,14 @@
 		<td>40</td>
 		<td>Arrays</td>
 	</tr>
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/minimum-swaps-2/problem">Minimum Swaps 2</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Arrays/MinimumSwaps2.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Arrays</td>
+	</tr>
 
 
 </table>
