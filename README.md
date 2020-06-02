@@ -1636,6 +1636,14 @@
 		<td>20</td>
 		<td>Arrays</td>
 	</tr>
+	<tr>
+		<td>8</td>
+		<td><a href="https://www.hackerrank.com/challenges/new-year-chaos/problem">New Year Chaos</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Arrays/NewYearChaos.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Arrays</td>
+	</tr>
 
 
 </table>
