@@ -1655,7 +1655,7 @@
 	<tr>
 		<td>10</td>
 		<td><a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem">Hash Tables: Ransom Note</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/RansomNote.pyy">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/RansomNote.py">Solution</a></td>
 		<td>Easy</td>
 		<td>25</td>
 		<td>Dictionaries and Hashmaps</td>
