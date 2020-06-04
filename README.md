@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-138-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-200-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/issues/aibenStunner/HackerRank">
 	<img src="https://img.shields.io/github/last-commit/aibenStunner/HackerRank">
@@ -1652,7 +1652,14 @@
 		<td>40</td>
 		<td>Arrays</td>
 	</tr>
-
+	<tr>
+		<td>10</td>
+		<td><a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem">Hash Tables: Ransom Note</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/RansomNote.pyy">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Dictionaries and Hashmaps</td>
+	</tr>
 
 </table>
 </p>
