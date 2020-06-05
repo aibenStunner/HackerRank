@@ -1660,6 +1660,14 @@
 		<td>25</td>
 		<td>Dictionaries and Hashmaps</td>
 	</tr>
+	<tr>
+		<td>11</td>
+		<td><a href="https://www.hackerrank.com/challenges/two-strings/problem">Hash Tables: Ransom Note</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/TwoStrings.pyy">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Dictionaries and Hashmaps</td>
+	</tr>
 
 </table>
 </p>
