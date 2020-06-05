@@ -1668,6 +1668,14 @@
 		<td>25</td>
 		<td>Dictionaries and Hashmaps</td>
 	</tr>
+	<tr>
+		<td>12</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem">Sherlock and Anagrams</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/SherlockAndAnagrams.py">Solution</a></td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Dictionaries and Hashmaps</td>
+	</tr>
 
 </table>
 </p>
