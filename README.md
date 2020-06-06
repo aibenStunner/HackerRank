@@ -1676,6 +1676,14 @@
 		<td>50</td>
 		<td>Dictionaries and Hashmaps</td>
 	</tr>
+	<tr>
+		<td>13</td>
+		<td><a href="https://www.hackerrank.com/challenges/count-triplets-1/problem">Count Triplets</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/CountTriplets.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Dictionaries and Hashmaps</td>
+	</tr>
 
 </table>
 </p>
