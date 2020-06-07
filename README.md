@@ -1727,7 +1727,7 @@
 	<tr>
 		<td>1</td>
 		<td><a href="https://www.hackerrank.com/challenges/cpp-hello-world/problem">Say "Hello, World!" With C++</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Sorting/BubbleSort.py">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Introduction/HelloWorld.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>5</td>
 		<td>Introduction</td>
