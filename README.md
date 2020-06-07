@@ -1684,6 +1684,14 @@
 		<td>35</td>
 		<td>Dictionaries and Hashmaps</td>
 	</tr>
+	<tr>
+		<td>14</td>
+		<td><a href="https://www.hackerrank.com/challenges/frequency-queries/problem">Frequency Queries</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/FrequencyQueries.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Dictionaries and Hashmaps</td>
+	</tr>
 
 </table>
 </p>
