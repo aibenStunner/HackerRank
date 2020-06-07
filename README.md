@@ -1700,6 +1700,14 @@
 		<td>35</td>
 		<td>Sorting</td>
 	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/ctci-bubble-sort/problem">Sorting: Bubble Sort</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MarkAndToys.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Sorting</td>
+	</tr>
 
 </table>
 </p>
