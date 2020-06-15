@@ -38,8 +38,8 @@ for i in data:
 #        return
 #     pivot = arr[(left+right)//2]
 #     index = partition(arr, left, right,  pivot)
-#     quicksort(arr, left, index-1)
-#     quicksort(arr, index, right)
+#     sort(arr, left, index-1)
+#     sort(arr, index, right)
 
 # def partition(arr, left, right, pivot):
 #     while left <= right:
