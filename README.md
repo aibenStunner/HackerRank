@@ -1716,6 +1716,14 @@
 		<td>35</td>
 		<td>Sorting</td>
 	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem">Fraudulent Activity Notifications</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Sorting/FraudulentActivityNotifications.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Sorting</td>
+	</tr>
 
 </table>
 </p>
