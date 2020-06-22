@@ -1724,6 +1724,14 @@
 		<td>40</td>
 		<td>Sorting</td>
 	</tr>
+	<tr>
+		<td>19</td>
+		<td><a href="https://www.hackerrank.com/challenges/ctci-merge-sort/problem">Merge Sort: Counting Inversions</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Sorting/CountingInversions.py">Solution</a></td>
+		<td>Hard</td>
+		<td>45</td>
+		<td>Sorting</td>
+	</tr>
 
 </table>
 </p>
