@@ -1740,6 +1740,14 @@
 		<td>25</td>
 		<td>String Manipulation</td>
 	</tr>
+	<tr>
+		<td>21</td>
+		<td><a href="https://www.hackerrank.com/challenges/alternating-characters/problem">Alternating Characters</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/String%20Manipulation/AlternatingCharacters.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>String Manipulation</td>
+	</tr>
 
 </table>
 </p>
