@@ -1732,6 +1732,14 @@
 		<td>45</td>
 		<td>Sorting</td>
 	</tr>
+	<tr>
+		<td>20</td>
+		<td><a href="https://www.hackerrank.com/challenges/ctci-making-anagrams/problem">Strings: Making Anagrams</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Sorting/CountingInversions.py">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>String Manipulation</td>
+	</tr>
 
 </table>
 </p>
