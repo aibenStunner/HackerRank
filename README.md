@@ -1748,6 +1748,14 @@
 		<td>20</td>
 		<td>String Manipulation</td>
 	</tr>
+	<tr>
+		<td>22</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem">Sherlock and the Valid String</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/String%20Manipulation/SherlockAndTheValidString.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>String Manipulation</td>
+	</tr>
 
 </table>
 </p>
