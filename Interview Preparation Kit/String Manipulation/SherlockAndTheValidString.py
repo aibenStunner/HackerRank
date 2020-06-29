@@ -24,7 +24,7 @@ def isValid(s):
     # counts are the same
     elif freqs.count(min(freqs)) == 1:
         freqs.remove(min(freqs))
-        if max(freqs)-min(freqs) == 0:
+        if max(freqs) == min(freqs):
             return 'YES'
         else:
             return 'NO'
