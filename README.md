@@ -1764,6 +1764,14 @@
 		<td>40</td>
 		<td>String Manipulation</td>
 	</tr>
+	<tr>
+		<td>24</td>
+		<td><a href="https://www.hackerrank.com/challenges/common-child/problem">Common Child</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/String%20Manipulation/CommonChild.py">Solution</a></td>
+		<td>Medium</td>
+		<td>60</td>
+		<td>String Manipulation</td>
+	</tr>
 
 </table>
 </p>
