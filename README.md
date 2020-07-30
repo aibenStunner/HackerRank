@@ -1772,13 +1772,45 @@
 		<td>60</td>
 		<td>String Manipulation</td>
 	</tr>
+	<tr>
+		<td>25</td>
+		<td><a href="https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem">Minimum Absolute Difference in an Array</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MinimumAbsoluteDifferenceInAnArray.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Greedy Algorithms</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td><a href="https://www.hackerrank.com/challenges/luck-balance/problem">Luck Balance</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/LuckBalance.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Greedy Algorithms</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td><a href="https://www.hackerrank.com/challenges/greedy-florist/problem">Greedy Florist</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/GreedyFlorist.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Greedy Algorithms</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td><a href="https://www.hackerrank.com/challenges/angry-children/problem">Max Min</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MaxMin.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Greedy Algorithms</td>
+	</tr>
 
 </table>
 </p>
 
 <p align="center">
 	
-# Interview Preparation Kit
+# C++
 <table align="center">
 	<tr>
 		<th>#</th>
