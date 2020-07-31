@@ -1807,7 +1807,7 @@
 	<tr>
 		<td>29</td>
 		<td><a href="https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem">Hash Tables: Ice Cream Parlor</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Greedy/MaxMin.py">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Search/IceCreamParlor.py">Solution</a></td>
 		<td>Medium</td>
 		<td>35</td>
 		<td>Search</td>
