@@ -1812,6 +1812,14 @@
 		<td>35</td>
 		<td>Search</td>
 	</tr>
+	<tr>
+		<td>30</td>
+		<td><a href="https://www.hackerrank.com/challenges/pairs/problem">Pairs</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Search/Pairs.py">Solution</a></td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Search</td>
+	</tr>
 
 </table>
 </p>
