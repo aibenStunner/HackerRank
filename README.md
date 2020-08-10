@@ -1820,6 +1820,14 @@
 		<td>50</td>
 		<td>Search</td>
 	</tr>
+	<tr>
+		<td>31</td>
+		<td><a href="https://www.hackerrank.com/challenges/triple-sum/problem">Triple sum</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Search/TripleSum.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Search</td>
+	</tr>
 
 </table>
 </p>
