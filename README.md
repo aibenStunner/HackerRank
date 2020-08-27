@@ -1828,6 +1828,14 @@
 		<td>40</td>
 		<td>Search</td>
 	</tr>
+	<tr>
+		<td>32</td>
+		<td><a href="https://www.hackerrank.com/challenges/minimum-time-required/problem">Minimum Time Required</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Search/MinimumTimeRequired.py">Solution</a></td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Search</td>
+	</tr>
 
 </table>
 </p>
