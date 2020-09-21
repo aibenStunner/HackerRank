@@ -1836,6 +1836,14 @@
 		<td>35</td>
 		<td>Search</td>
 	</tr>
+	<tr>
+		<td>33</td>
+		<td><a href="https://www.hackerrank.com/challenges/maximum-subarray-sum/problem">Maximum Subarray Sum</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Search/MaximumSubarraySum.py">Solution</a></td>
+		<td>Hard</td>
+		<td>65</td>
+		<td>Search</td>
+	</tr>
 
 </table>
 </p>
