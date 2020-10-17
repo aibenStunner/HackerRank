@@ -1868,6 +1868,14 @@
 		<td>5</td>
 		<td>Introduction</td>
 	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="hhttps://www.hackerrank.com/challenges/cpp-input-and-output/problem">Input and Output</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Introduction/InputAndOutput.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Introduction</td>
+	</tr>
 
 </table>
 </p>
