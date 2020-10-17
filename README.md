@@ -1892,6 +1892,14 @@
 		<td>10</td>
 		<td>Introduction</td>
 	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem">For Loop</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Introduction/ForLoop.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
 
 </table>
 </p>
