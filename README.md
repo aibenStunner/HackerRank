@@ -1924,6 +1924,14 @@
 		<td>10</td>
 		<td>Introduction</td>
 	</tr>
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/variable-sized-arrays/problem">Variable Sized Arrays</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Introduction/VariableSizedArrays.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Introduction</td>
+	</tr>
 
 </table>
 </p>
