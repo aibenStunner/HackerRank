@@ -1935,9 +1935,17 @@
 	<tr>
 		<td>10</td>
 		<td><a href="https://www.hackerrank.com/challenges/hotel-prices/problem">Hotel Prices</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Introduction/VariableSizedArrays.cpp">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Debugging/HotelPrices.cpp">Solution</a></td>
 		<td>Medium</td>
 		<td>15</td>
+		<td>Debugging</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td><a href="https://www.hackerrank.com/challenges/cpp-exception-handling/problem">Cpp exception handling</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Debugging/CppExceptionHandling.cpp">Solution</a></td>
+		<td>Medium</td>
+		<td>20</td>
 		<td>Debugging</td>
 	</tr>
 
