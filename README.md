@@ -1964,6 +1964,14 @@
 		<td>40</td>
 		<td>Debugging</td>
 	</tr>
+	<tr>
+		<td>14</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem">StringStream</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Debugging/StringStream.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
 
 </table>
 </p>
