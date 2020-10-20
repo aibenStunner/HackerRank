@@ -1948,6 +1948,14 @@
 		<td>20</td>
 		<td>Debugging</td>
 	</tr>
+	<tr>
+		<td>12</td>
+		<td><a href="https://www.hackerrank.com/challenges/overloading-ostream-operator/problem">Overloading Ostream Operator</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Debugging/OverloadingOstreamOperator.cpp">Solution</a></td>
+		<td>Medium</td>
+		<td>20</td>
+		<td>Debugging</td>
+	</tr>
 
 </table>
 </p>
