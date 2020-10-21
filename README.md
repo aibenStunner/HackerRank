@@ -1967,7 +1967,15 @@
 	<tr>
 		<td>14</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem">StringStream</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Debugging/StringStream.cpp">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Strings/StringStream.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-strings/problem">Strings</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Strings/Strings.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Strings</td>
