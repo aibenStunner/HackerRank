@@ -1996,6 +1996,14 @@
 		<td>10</td>
 		<td>Classes</td>
 	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/classes-objects/problem">Classes and Objects</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Classes/ClassesAndObjects.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Classes</td>
+	</tr>
 
 </table>
 </p>
