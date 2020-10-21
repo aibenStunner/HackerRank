@@ -1980,6 +1980,14 @@
 		<td>10</td>
 		<td>Strings</td>
 	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-struct/problem">Structs</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Strings/Strings.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Classes</td>
+	</tr>
 
 </table>
 </p>
