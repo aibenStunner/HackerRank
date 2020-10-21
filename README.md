@@ -1983,7 +1983,15 @@
 	<tr>
 		<td>16</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-struct/problem">Structs</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Strings/Strings.cpp">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Classes/Structs.cpp">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Classes</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-class/problem">Class</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/C%2B%2B/Classes/Class.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Classes</td>
