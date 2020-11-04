@@ -407,6 +407,14 @@
 		<td>10</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>48</td>
+		<td><a href="https://www.hackerrank.com/challenges/the-birthday-bar/problem">Sub-array Division</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/Sub-arrayDivision.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
