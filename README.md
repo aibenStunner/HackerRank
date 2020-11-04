@@ -415,6 +415,14 @@
 		<td>10</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>49</td>
+		<td><a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem">Divisible Sum Pairs</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/DivisibleSumPairs.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
