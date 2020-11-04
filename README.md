@@ -399,6 +399,14 @@
 		<td>65</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>47</td>
+		<td><a href="https://www.hackerrank.com/challenges/between-two-sets/problem">Between Two Sets</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/BetweenTwoSets.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
