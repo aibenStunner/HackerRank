@@ -431,6 +431,14 @@
 		<td>10</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>51</td>
+		<td><a href="https://www.hackerrank.com/challenges/day-of-the-programmer/problem">Day of the Programmer</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/DayOfTheProgrammer.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>

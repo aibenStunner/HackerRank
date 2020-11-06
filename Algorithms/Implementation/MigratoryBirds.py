@@ -11,7 +11,7 @@ def migratoryBirds(arr):
     arr.sort()
     
     count = 0
-    max_count = -1`
+    max_count = -1
     bird_type = -1
     result = 0
     
