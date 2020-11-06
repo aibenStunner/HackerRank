@@ -447,6 +447,14 @@
 		<td>10</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>53</td>
+		<td><a href="https://www.hackerrank.com/challenges/drawing-book/problem">Drawing Book</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/DrawingBook.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
