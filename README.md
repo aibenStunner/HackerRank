@@ -455,6 +455,14 @@
 		<td>10</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>54</td>
+		<td><a href="https://www.hackerrank.com/challenges/electronics-shop/problem">Electronics Shop</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/ElectronicsShop.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
