@@ -463,6 +463,14 @@
 		<td>15</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>55</td>
+		<td><a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem">Cats and a Mouse</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/CatsAndAMouse.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
