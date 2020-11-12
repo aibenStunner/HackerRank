@@ -511,6 +511,14 @@
 		<td>20</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>61</td>
+		<td><a href="https://www.hackerrank.com/challenges/angry-professor/problem">Angry Professor</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/AngryProfessor.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
