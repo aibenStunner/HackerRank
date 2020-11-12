@@ -543,6 +543,14 @@
 		<td>15</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>65</td>
+		<td><a href="https://www.hackerrank.com/challenges/circular-array-rotation/problem">Circular Array Rotation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/CircularArrayRotation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
