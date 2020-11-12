@@ -519,6 +519,14 @@
 		<td>20</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>62</td>
+		<td><a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem">Beautiful Days at the Movies</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/BeautifulDaysAtTheMovies.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
