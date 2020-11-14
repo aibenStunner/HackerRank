@@ -551,6 +551,14 @@
 		<td>20</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>66</td>
+		<td><a href="https://www.hackerrank.com/challenges/permutation-equation/problem">Sequence Equation</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/SequenceEquation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
