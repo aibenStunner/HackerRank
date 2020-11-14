@@ -559,6 +559,14 @@
 		<td>20</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>67</td>
+		<td><a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem">Jumping on the Clouds: Revisited</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/JumpingOnTheCloudsRevisited.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
