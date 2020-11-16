@@ -567,6 +567,14 @@
 		<td>15</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>68</td>
+		<td><a href="https://www.hackerrank.com/challenges/library-fine/problem">Library Fine</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/LibraryFine.py">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
