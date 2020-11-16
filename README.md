@@ -575,6 +575,14 @@
 		<td>15</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>69</td>
+		<td><a href="https://www.hackerrank.com/challenges/cut-the-sticks/problem">Cut the sticks</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/CutTheSticks.py">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
