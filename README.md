@@ -583,6 +583,14 @@
 		<td>25</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>70</td>
+		<td><a href="https://www.hackerrank.com/challenges/non-divisible-subset/problem">Non-Divisible Subset</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/NonDivisibleSubset.py">Solution</a></td>
+		<td>Medium</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
