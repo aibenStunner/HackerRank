@@ -591,6 +591,14 @@
 		<td>20</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>71</td>
+		<td><a href="https://www.hackerrank.com/challenges/equality-in-a-array/problem">Equalize the Array</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/EqualizeTheArray.py">Solution</a></td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
