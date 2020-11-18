@@ -607,6 +607,14 @@
 		<td>30</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>73</td>
+		<td><a href="https://www.hackerrank.com/challenges/acm-icpc-team/problem">ACM ICPC Team</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/ACMICPCTeam.py">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
