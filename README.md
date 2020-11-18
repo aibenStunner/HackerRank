@@ -599,6 +599,14 @@
 		<td>20</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>72</td>
+		<td><a href="https://www.hackerrank.com/challenges/queens-attack-2/problem">Queen's Attack II</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Algorithms/Implementation/QueensAttackII.py">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
