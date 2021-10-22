@@ -1796,6 +1796,14 @@
 		<td>25</td>
 		<td>Alternative Queries</td>
 	</tr>
+	<tr>
+		<td>48</td>
+		<td><a href="https://www.hackerrank.com/challenges/draw-the-triangle-2/problem">Draw The Triangle 2</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Alternative%20Queries/DrawTheTriangle2.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Alternative Queries</td>
+	</tr>
 
 </table>
 </p>

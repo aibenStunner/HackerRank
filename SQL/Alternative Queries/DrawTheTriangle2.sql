@@ -1,0 +1,5 @@
+/*
+Enter your query here.
+*/
+SET @NUMBER=0;
+SELECT REPEAT('* ', @NUMBER := @NUMBER + 1) FROM INFORMATION_SCHEMA.TABLES WHERE @NUMBER < 20;
