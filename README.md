@@ -1788,6 +1788,14 @@
 		<td>30</td>
 		<td>Basic Join</td>
 	</tr>
+	<tr>
+		<td>47</td>
+		<td><a href="https://www.hackerrank.com/challenges/draw-the-triangle-1/problem">Draw The Triangle 1</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Alternative%20Queries/DrawTheTriangle1.sql">Solution</a></td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Alternative Queries</td>
+	</tr>
 
 </table>
 </p>
