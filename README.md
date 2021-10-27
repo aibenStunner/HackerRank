@@ -1807,7 +1807,7 @@
 	<tr>
 		<td>49</td>
 		<td><a href="https://www.hackerrank.com/challenges/harry-potter-and-wands/problem">Ollivander's Inventory</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Alternative%20Queries/OllivandersInventory.sql">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/OllivandersInventory.sql">Solution</a></td>
 		<td>Medium</td>
 		<td>30</td>
 		<td>Basic Join</td>
