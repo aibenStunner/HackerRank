@@ -1820,6 +1820,14 @@
 		<td>30</td>
 		<td>Basic Join</td>
 	</tr>
+	<tr>
+		<td>51</td>
+		<td><a href="https://www.hackerrank.com/challenges/contest-leaderboard/problem">Contest Leaderboard</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Basic%20Join/ContestLeaderboard.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Basic Join</td>
+	</tr>
 
 </table>
 </p>
