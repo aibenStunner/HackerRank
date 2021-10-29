@@ -1828,6 +1828,14 @@
 		<td>30</td>
 		<td>Basic Join</td>
 	</tr>
+	<tr>
+		<td>52</td>
+		<td><a href="https://www.hackerrank.com/challenges/symmetric-pairs/problem">Symmetric Pairs</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Advanced%20Join/SymmetricPairs.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Advanced Join</td>
+	</tr>
 
 </table>
 </p>
