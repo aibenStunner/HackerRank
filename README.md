@@ -1838,7 +1838,7 @@
 	</tr>
 	<tr>
 		<td>53</td>
-		<td><a href="https://www.hackerrank.com/challenges/interviews/problem">Symmetric Pairs</a></td>
+		<td><a href="https://www.hackerrank.com/challenges/interviews/problem">Interviews</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Advanced%20Join/Interviews.sql">Solution</a></td>
 		<td>Hard</td>
 		<td>50</td>
