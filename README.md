@@ -1844,6 +1844,14 @@
 		<td>50</td>
 		<td>Advanced Join</td>
 	</tr>
+	<tr>
+		<td>54</td>
+		<td><a href="https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem">15 Days of Learning SQL</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Advanced%20Join/15DaysOfLearningSQL.sql">Solution</a></td>
+		<td>Hard</td>
+		<td>50</td>
+		<td>Advanced Join</td>
+	</tr>
 
 </table>
 </p>
