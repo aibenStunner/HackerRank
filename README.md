@@ -1,4 +1,5 @@
-[CopyrightLicense]:./license.md
+[copyrightlicense]: ./license.md
+
 <p align="center">
 	<a href="https://www.hackerrank.com/aiben_"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a>
 </p>
@@ -987,14 +988,6 @@
 </table>
 </p>
 
-
-
-
-
-
-
-
-
 <p align="center">
 	
 # Tutorials
@@ -1343,21 +1336,9 @@
 		<td>30</td>
 		<td>10 Days of Statistics</td>
 	</tr>
-	
-	
-	
-	
-	
 
 </table>
 </p>
-
-
-
-
-
-
-
 
 <p align="center">
 	
@@ -1406,7 +1387,6 @@
 	
 </table>
 </p>
-
 
 <p align="center">
 	
@@ -1852,6 +1832,14 @@
 		<td>50</td>
 		<td>Advanced Join</td>
 	</tr>
+	<tr>
+		<td>55</td>
+		<td><a href="https://www.hackerrank.com/challenges/print-prime-numbers/problem">Print Prime Numbers</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Alternative%20Queries/PrintPrimeNumbers.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Alternative Queries</td>
+	</tr>
 
 </table>
 </p>
@@ -2295,10 +2283,6 @@
 
 </table>
 </p>
-
-
-
-
 
 <h2>Contributing</h2>
 <p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
