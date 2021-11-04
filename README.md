@@ -1840,6 +1840,14 @@
 		<td>40</td>
 		<td>Alternative Queries</td>
 	</tr>
+	<tr>
+		<td>56</td>
+		<td><a href="https://www.hackerrank.com/challenges/sql-projects/problem">SQL Project Planning</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Advanced%20Join/SQLProjectPlanning.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Advanced Join</td>
+	</tr>
 
 </table>
 </p>
