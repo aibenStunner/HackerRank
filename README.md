@@ -1848,6 +1848,14 @@
 		<td>40</td>
 		<td>Advanced Join</td>
 	</tr>
+	<tr>
+		<td>57</td>
+		<td><a href="https://www.hackerrank.com/challenges/placements/problem">Placements</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/SQL/Advanced%20Join/Placements.sql">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Advanced Join</td>
+	</tr>
 
 </table>
 </p>

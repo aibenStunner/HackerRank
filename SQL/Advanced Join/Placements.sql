@@ -1,0 +1,14 @@
+/*
+Enter your query here.
+*/
+SELECT S.NAME FROM STUDENTS S
+    JOIN FRIENDS F USING(ID)
+    
+    JOIN PACKAGES P1 USING(ID)
+    
+    JOIN PACKAGES P2
+        ON F.FRIEND_ID = P2.ID
+    
+    WHERE P2.SALARY > P1.SALARY
+    ORDER BY P2.SALARY;
+ 
