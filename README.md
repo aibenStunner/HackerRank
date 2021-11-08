@@ -2300,6 +2300,30 @@
 </table>
 </p>
 
+<p align="center">
+	
+# Artificial Intelligence
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Max Score</th>
+		<th>Sub domain</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/saveprincess/problem">Bot saves princess</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/Bot%20Building/BotSavesPrincess.py">Solution</a></td>
+		<td>Easy</td>
+		<td>13.90</td>
+		<td>Bot Building</td>
+	</tr>
+
+</table>
+</p>
+
 <h2>Contributing</h2>
 <p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
 <ul>
