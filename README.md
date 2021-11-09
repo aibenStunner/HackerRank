@@ -2320,6 +2320,14 @@
 		<td>13.90</td>
 		<td>Bot Building</td>
 	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/saveprincess2/problem">Bot saves princess - 2</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/Bot%20Building/BotSavesPrincess2.py">Solution</a></td>
+		<td>Easy</td>
+		<td>17.50</td>
+		<td>Bot Building</td>
+	</tr>
 
 </table>
 </p>
