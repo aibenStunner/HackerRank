@@ -2336,6 +2336,14 @@
 		<td>17.82</td>
 		<td>Bot Building</td>
 	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://www.hackerrank.com/challenges/botclean/problem">Bot Clean</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/Bot%20Building/BotCleanStochastic.py">Solution</a></td>
+		<td>Easy</td>
+		<td>10.00</td>
+		<td>Bot Building</td>
+	</tr>
 
 </table>
 </p>
