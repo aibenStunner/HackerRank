@@ -2338,10 +2338,18 @@
 	</tr>
 	<tr>
 		<td>4</td>
-		<td><a href="https://www.hackerrank.com/challenges/botclean/problem">Bot Clean</a></td>
+		<td><a href="https://www.hackerrank.com/challenges/botcleanr/problem">Bot Clean Stochastic</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/Bot%20Building/BotCleanStochastic.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10.00</td>
+		<td>Bot Building</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/botcleanlarge/problem">BotClean Large</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/Bot%20Building/BotCleanLarge.py">Solution</a></td>
+		<td>Hard</td>
+		<td>54.00</td>
 		<td>Bot Building</td>
 	</tr>
 
