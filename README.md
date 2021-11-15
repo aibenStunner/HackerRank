@@ -2352,6 +2352,14 @@
 		<td>54.00</td>
 		<td>Bot Building</td>
 	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/botcleanv2/problem">BotClean Partially Observable</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/Bot%20Building/BotCleanPartiallyObservable.py">Solution</a></td>
+		<td>Hard</td>
+		<td>28.00</td>
+		<td>Bot Building</td>
+	</tr>
 
 </table>
 </p>
