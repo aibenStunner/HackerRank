@@ -2363,7 +2363,7 @@
 	<tr>
 		<td>7</td>
 		<td><a href="https://www.hackerrank.com/challenges/pacman-dfs/problem">PacMan - DFS</a></td>
-		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/A*%Search/PacMan-DFS.py">Solution</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Artificial%20Intelligence/A*%20Search/PacMan-DFS.py">Solution</a></td>
 		<td>Easy</td>
 		<td>15.00</td>
 		<td>A* Search</td>
