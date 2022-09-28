@@ -2138,6 +2138,14 @@
 	</tr>
 	<tr>
 		<td>34</td>
+		<td><a href="https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem">Recursion: Fibonacci Numbers</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/FibonacciNumbers.js">Solution</a></td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Recursion and Backtracking</td>
+	</tr>
+	<tr>
+		<td>35</td>
 		<td><a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem">Recursion: Davis' Staircase</a></td>
 		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/DavisStaircase.js">Solution</a></td>
 		<td>Medium</td>
