@@ -2136,6 +2136,14 @@
 		<td>65</td>
 		<td>Search</td>
 	</tr>
+	<tr>
+		<td>34</td>
+		<td><a href="https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem">Recursion: Davis' Staircase</a></td>
+		<td><a href="https://github.com/aibenStunner/HackerRank/blob/master/Interview%20Preparation%20Kit/Recursion%20and%20Backtracking/DavisStaircase.js">Solution</a></td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Recursion and Backtracking</td>
+	</tr>
 
 </table>
 </p>
